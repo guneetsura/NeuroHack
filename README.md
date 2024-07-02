@@ -42,3 +42,6 @@ The demo can break the following pre-loaded systems:
 2. [`docs/`](docs/): The interactive demo directory.
 3. [`docs/js/`](docs/js/): Contains a ton of scripts that process data and power the demo, and a copy of `adversarial.js`.
 4. [`docs/data/`](docs/data/): Contains (subsets) of datasets used in the demo.
+
+## Demo
+![](NeuroHack Demo.gif)
