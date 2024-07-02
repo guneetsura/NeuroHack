@@ -4,6 +4,8 @@ Break neural networks in your browser.
 
 An interactive, in-browser demonstration of adversarial attacks on neural networks – entirely in JavaScript.
 
+Access the demo [here](https://guneetsura.github.io/NeuroHack/).
+
 ## Get Started
 
 To run locally, just start up a web server using the example given below:
