@@ -44,4 +44,4 @@ The demo can break the following pre-loaded systems:
 4. [`docs/data/`](docs/data/): Contains (subsets) of datasets used in the demo.
 
 ## Demo
-![](https://github.com/guneetsura/NeuroHack/blob/main/NeuroHack%20Demo.gif))
+![](https://github.com/guneetsura/NeuroHack/blob/main/NeuroHack%20Demo.gif)
